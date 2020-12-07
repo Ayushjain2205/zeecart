@@ -1,4 +1,4 @@
-# ZeeCar eCommerce Platform
+# ZeeCart eCommerce Platform
 
 ## Features
 
